@@ -1,0 +1,3 @@
+you need to download DB write in the terminal (npm i db)
+if you want to copy paste (which you will do lol) download it as a zip right click when it is downloaded
+then press extract files then do run the code need (NODE.JS)
